@@ -164,7 +164,8 @@ aside {
   width: 360px;
   box-sizing: border-box;
   position: absolute;
-  right: 0;
+  right: 3px;
+  top: 61px;
 }
 .title-container {
   display: flex;
